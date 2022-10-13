@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "wXZ5GCfhWj4oyAEqwCGzVFiVPjmbmPvhyj4ddkwXpTC5CrohWL48XAhDJyLWTCEsr4q8EFgPka9UVUk8n8XYtg==",
+  "dgSpecHash": "mMBShZ/OUlCHlK5WcbHU4omeCaiVsbGxRSRKjRcL60kV6FHQAFrzc2F/WOtWChGQJC9BXXfZS7NTAeQhn79VDA==",
   "success": true,
   "projectFilePath": "C:\\Users\\KPatel\\source\\repos\\AwsAssignment\\AwsAssignment\\AwsAssignment.csproj",
   "expectedPackageFiles": [
@@ -13,6 +13,7 @@
     "C:\\Users\\KPatel\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\2.0.0\\microsoft.extensions.logging.abstractions.2.0.0.nupkg.sha512",
     "C:\\Users\\KPatel\\.nuget\\packages\\microsoft.extensions.primitives\\2.0.0\\microsoft.extensions.primitives.2.0.0.nupkg.sha512",
     "C:\\Users\\KPatel\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\KPatel\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.15.1\\microsoft.visualstudio.azure.containers.tools.targets.1.15.1.nupkg.sha512",
     "C:\\Users\\KPatel\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
     "C:\\Users\\KPatel\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
     "C:\\Users\\KPatel\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
